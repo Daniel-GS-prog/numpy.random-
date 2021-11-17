@@ -11,11 +11,9 @@ We will start with a brief instroduction of the package, its characteristics and
 ## Requirements:
 
 To run the code included in this repository you will need:
-<br>
+
 1. Python 3.
-<br>
 2. Libraries: Numpy 1.21, time, sys, seaborn.
-<br>
 3. Jupyter notebook.
 
 ## References:
