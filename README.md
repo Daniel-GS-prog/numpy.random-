@@ -16,6 +16,10 @@ To run the code included in this repository you will need:
 2. Libraries: Numpy 1.21, time, sys, seaborn.
 3. Jupyter notebook.
 
+To secure proper image rendering, we advice for this jupyter notebook to be opened with an online converter such as https://nbviewer.org/, with the following link to this jupyter notebook:
+
+https://github.com/Daniel-GS-prog/numpy.random-/blob/main/numpy-random.ipynb
+
 ## References:
 All references are linked throughout the document and listed in the "Reference" section.
 
